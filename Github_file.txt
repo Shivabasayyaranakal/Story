@@ -7,3 +7,4 @@ git commit -m "relevant message"
 git log (to see the exact change)
 tip : git add . (to add multiple files to staging)
 print
+rest
