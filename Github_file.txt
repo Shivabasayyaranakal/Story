@@ -1,1 +1,8 @@
-I am Shivabasayya recently completed my graduation from pda college of engineering Kalburgi specialization in Electronics and Communication Engineering with a cgpa of 8.34
+touch filename
+make the change and save
+git status
+git add filename
+git status
+git commit -m "relevant message"
+git log (to see the exact change)
+tip : git add . (to add multiple files to staging)
